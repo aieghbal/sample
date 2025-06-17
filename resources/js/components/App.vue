@@ -1,12 +1,13 @@
 <template>
-    <h1>Hello from Vue 3!</h1>
+    <v-app>
+        <v-main>
+            <v-container class="text-center">
+                <v-btn color="primary" class="ma-2">دکمه تست Vuetify</v-btn>
+                <h1>کار می‌کنه 🎉</h1>
+            </v-container>
+        </v-main>
+    </v-app>
 </template>
 
 <script setup>
 </script>
-
-<style scoped>
-h1 {
-    color: #42b983;
-}
-</style>
