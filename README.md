@@ -7,3 +7,4 @@
 - php artisan key:generate
 - php artisan migrate
 - php artisan serve
+استفاده از laravel nightwatch برای trach منابع https://nightwatch.laravel.com
